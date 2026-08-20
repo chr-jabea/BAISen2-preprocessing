@@ -1,0 +1,13 @@
+numpy
+rasterio
+shapely
+pyproj
+xarray
+rioxarray
+pystac-client
+planetary-computer
+stackstac
+dask
+pyyaml
+tqdm
+pillow
